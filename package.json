@@ -1,0 +1,20 @@
+{
+   "name" : "access-control-node",
+   "description" : "Access Control",
+   "keywords" : [ "security", "authenticate", "authorization", "login", "password"],
+   "version" : "0.0.1",
+   "authors": [
+      {"name": "Vladimir Perlov"},
+      {"name": "Serge Chernokosinsky"}
+   ],
+   "dependencies": {
+      "connect": "2.x"
+   },
+   "engines": {
+      "node": ">= 0.5.3"
+   },
+   "repository": {
+      "type": "git", 
+      "url": "git://github.com/semanticprogrammer/access-control-node.git"
+   }
+}
